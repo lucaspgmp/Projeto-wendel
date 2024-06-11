@@ -1,0 +1,12 @@
+Para executar esse script, você precisará instalar as seguintes bibliotecas:
+
+openpyxl: Para trabalhar com arquivos Excel.
+pyautogui: Para automação da interface gráfica (clicar na tela).
+webbrowser: Esta biblioteca é padrão no Python, então não precisa ser instalada.
+urllib: Esta biblioteca também é padrão no Python.
+time: Esta biblioteca é padrão no Python.
+os: Esta biblioteca é padrão no Python.
+As bibliotecas que precisam ser instaladas são openpyxl e pyautogui. Você pode instalá-las usando o pip, conforme mostrado abaixo:
+
+Copiar código
+pip install openpyxl pyautogui

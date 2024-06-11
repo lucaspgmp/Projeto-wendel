@@ -1,0 +1,11 @@
+openpyxl: Para manipular arquivos Excel.
+pyautogui: Para automação de interação com a interface gráfica.
+pillow: Necessário para que pyautogui possa localizar imagens na tela.
+webbrowser: Esta biblioteca é padrão no Python e não precisa ser instalada separadamente.
+time: Esta biblioteca é padrão no Python e não precisa ser instalada separadamente.
+urllib: Esta biblioteca é padrão no Python e não precisa ser instalada separadamente.
+os: Esta biblioteca é padrão no Python e não precisa ser instalada separadamente.
+Aqui estão os comandos para instalar as bibliotecas necessárias:
+
+Copiar código
+pip install openpyxl pyautogui pillow
